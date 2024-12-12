@@ -1,0 +1,16 @@
+{
+  "Profiles": [
+    {
+      "Author": "tcfshcrw",
+      "ProfileName": "test1",
+      "FileName": "Profile1.json",
+      "Description": "Im description"
+    },
+    {
+      "Author": "tcfshcrw",
+      "ProfileName": "test2",
+      "FileName": "Profile2.json",
+      "Description": "Im description"
+    }
+  ]
+}
