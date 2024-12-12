@@ -3,12 +3,14 @@
     {
       "Author": "tcfshcrw",
       "ProfileName": "test1",
+      "Version": "0.0.1"
       "FileName": "Profile1.json",
       "Description": "Im description"
     },
     {
       "Author": "tcfshcrw",
       "ProfileName": "test2",
+      "Version": "0.0.1"
       "FileName": "Profile2.json",
       "Description": "Im description"
     }
