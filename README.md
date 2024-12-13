@@ -7,4 +7,4 @@ Click the Export Online Button in the Pedal tab of Plugin.
 ### Make the Fork of this repo
 ### Put the Exported Online config in Profiles folder
 ### Edit main.json
-### Make a PR to Merge your fork in
+### Make a Pull request from your fork
