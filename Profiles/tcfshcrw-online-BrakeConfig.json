@@ -1,0 +1,14 @@
+{
+  "Basic_Config": {
+    "MaxForce": 45,
+    "PreloadForce": 5,
+    "Damping": 0,
+    "Travel": 39,
+    "relativeForce_p000": 0,
+    "relativeForce_p020": 19,
+    "relativeForce_p040": 46,
+    "relativeForce_p060": 75,
+    "relativeForce_p080": 89,
+    "relativeForce_p100": 100
+  }
+}
