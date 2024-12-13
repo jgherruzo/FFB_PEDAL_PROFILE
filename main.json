@@ -2,17 +2,17 @@
   "Profiles": [
     {
       "Author": "tcfshcrw",
-      "ProfileName": "test1",
+      "ProfileName": "TEMPLATE",
       "Version": "0.0.1",
       "FileName": "Profile1.json",
-      "Description": "Im description"
+      "Description": "DO NOT USE"
     },
     {
       "Author": "tcfshcrw",
-      "ProfileName": "test2",
-      "Version": "0.0.1",
+      "ProfileName": "TEMPLATE2",
+      "Version": "0.0.2",
       "FileName": "Profile2.json",
-      "Description": "Im description"
+      "Description": "DO NOT USE"
     }
   ]
 }
