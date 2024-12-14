@@ -19,14 +19,14 @@
       "ProfileName": "tcfshcrw-TEST-Brake",
       "Version": "0.0.1",
       "FileName": "tcfshcrw-brake.json",
-      "Description": "This is full config, FOR TEST PURPOSE, DO NOT USE"
+      "Description": "This is full config, \nFOR TEST PURPOSE, DO NOT USE"
     },
     {
       "Author": "tcfshcrw",
       "ProfileName": "tcfshcrw-TEST-Throttle",
       "Version": "0.0.1",
       "FileName": "tcfshcrw-throttle.json",
-      "Description": "This is full config, FOR TEST PURPOSE, DO NOT USE"
+      "Description": "This is full config, \nFOR TEST PURPOSE, DO NOT USE"
     },
     {
       "Author": "tcfshcrw",
