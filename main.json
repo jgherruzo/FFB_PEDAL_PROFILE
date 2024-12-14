@@ -16,6 +16,13 @@
     },
     {
       "Author": "tcfshcrw",
+      "ProfileName": "TEST",
+      "Version": "0.0.1",
+      "FileName": "tcfshcrw-Brake.json",
+      "Description": "TEST PURPOSE, DO NOT USE"
+    },
+    {
+      "Author": "tcfshcrw",
       "ProfileName": "TEMPLATE2",
       "Version": "0.0.2",
       "FileName": "Profile2.json",
