@@ -2,9 +2,7 @@
 For user that using DIY FFB Pedal to sotre the config for online sharing.<br>
 
 ## How to Share the config here
-### Export Online Config
-Click the Export Online Button in the Pedal tab of Plugin.<br>
-<img src="https://github.com/tcfshcrw/FFB_PEDAL_PROFILE/blob/main/image/export-config.png" width="500"><br>
+
 ### Create the Fork of this repo
 To crate the fork of your won for editing.<br>
 <img src="https://github.com/tcfshcrw/FFB_PEDAL_PROFILE/blob/main/image/make-a-fork.png" width="500"><br>
