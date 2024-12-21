@@ -11,29 +11,15 @@
       "Author": "tcfshcrw",
       "ProfileName": "tcfshcrw-Brake",
       "Version": "0.0.1",
-      "FileName": "tcfshcrw-online-BrakeConfig.json",
-      "Description": ""
-    },
-    {
-      "Author": "tcfshcrw",
-      "ProfileName": "tcfshcrw-TEST-Brake",
-      "Version": "0.0.1",
       "FileName": "tcfshcrw-brake.json",
-      "Description": "This is full config, \nFOR TEST PURPOSE, DO NOT USE"
+      "Description": "For common usage, no specific car or games"
     },
     {
       "Author": "tcfshcrw",
-      "ProfileName": "tcfshcrw-TEST-Throttle",
+      "ProfileName": "tcfshcrw-Throttle",
       "Version": "0.0.1",
       "FileName": "tcfshcrw-throttle.json",
-      "Description": "This is full config, \nFOR TEST PURPOSE, DO NOT USE"
-    },
-    {
-      "Author": "tcfshcrw",
-      "ProfileName": "TEMPLATE2",
-      "Version": "0.0.2",
-      "FileName": "Profile2.json",
-      "Description": "DO NOT USE"
+      "Description": "For common usage, no specific car or games"
     },
     {
       "Author": "captainchris",
