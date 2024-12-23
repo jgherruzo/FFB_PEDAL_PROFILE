@@ -25,14 +25,14 @@
       "Author": "captainchris",
       "ProfileName": "captainchris-Brake",
       "Version": "0.0.1",
-      "FileName": "captainchris-online-BrakeConfig.json",
+      "FileName": "captainchris-brake.json",
       "Description": ""
     },
     {
       "Author": "captainchris",
       "ProfileName": "captainchris-Throttle",
       "Version": "0.0.1",
-      "FileName": "captainchris-online-ThrottleConfig.json",
+      "FileName": "captainchris-throttle.json",
       "Description": ""
     }
   ]
