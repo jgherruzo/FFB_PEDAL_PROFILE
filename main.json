@@ -43,6 +43,20 @@
       "Description": ""
     },
     {
+      "Author": "Nischo",
+      "ProfileName": "Nischo Brake",
+      "Version": "0.0.1",
+      "FileName": "Nischo-brake.json",
+      "Description": ""
+    },
+    {
+      "Author": "Nischo",
+      "ProfileName": "Nischo Throttle",
+      "Version": "0.0.1",
+      "FileName": "Nischo-throttle.json",
+      "Description": ""
+    },
+    {
       "Author": "captainchris",
       "ProfileName": "captainchris-Throttle",
       "Version": "0.0.1",
