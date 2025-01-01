@@ -57,6 +57,27 @@
       "Description": ""
     },
     {
+      "Author": "Cambo Rambo",
+      "ProfileName": "Cambo Rambo Brake",
+      "Version": "0.0.1",
+      "FileName": "Cambo_Rambo_brakes.json",
+      "Description": ""
+    },
+    {
+      "Author": "Cambo Rambo",
+      "ProfileName": "Cambo Rambo Throttle",
+      "Version": "0.0.1",
+      "FileName": "Cambo_Rambo_throttle.json",
+      "Description": ""
+    },
+    {
+      "Author": "Cambo Rambo",
+      "ProfileName": "Cambo Rambo Clutch",
+      "Version": "0.0.1",
+      "FileName": "Cambo_Rambo_clutch.json",
+      "Description": ""
+    },
+    {
       "Author": "captainchris",
       "ProfileName": "captainchris-Throttle",
       "Version": "0.0.1",
